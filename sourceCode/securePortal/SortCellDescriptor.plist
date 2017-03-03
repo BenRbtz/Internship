@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>isSelected</key>
+			<true/>
+			<key>value</key>
+			<string>amountTimestamp</string>
+			<key>primaryTitle</key>
+			<string>Date (Newest To Oldest)</string>
+			<key>secondaryTitle</key>
+			<string></string>
+			<key>cellIdentifier</key>
+			<string>idSortCellValuePicker</string>
+		</dict>
+		<dict>
+			<key>isSelected</key>
+			<false/>
+			<key>value</key>
+			<string>accountType</string>
+			<key>primaryTitle</key>
+			<string>Account Type (A - Z)</string>
+			<key>secondaryTitle</key>
+			<string></string>
+			<key>cellIdentifier</key>
+			<string>idSortCellValuePicker</string>
+		</dict>
+		<dict>
+			<key>isSelected</key>
+			<false/>
+			<key>value</key>
+			<string>currency</string>
+			<key>primaryTitle</key>
+			<string>Currency Type (A - Z)</string>
+			<key>secondaryTitle</key>
+			<string></string>
+			<key>cellIdentifier</key>
+			<string>idSortCellValuePicker</string>
+		</dict>
+		<dict>
+			<key>isSelected</key>
+			<false/>
+			<key>value</key>
+			<string>paymentType</string>
+			<key>primaryTitle</key>
+			<string>Payment Type (A - Z)</string>
+			<key>secondaryTitle</key>
+			<string></string>
+			<key>cellIdentifier</key>
+			<string>idSortCellValuePicker</string>
+		</dict>
+		<dict>
+			<key>isSelected</key>
+			<false/>
+			<key>value</key>
+			<string>requestType</string>
+			<key>primaryTitle</key>
+			<string>Request Type (A - Z)</string>
+			<key>secondaryTitle</key>
+			<string></string>
+			<key>cellIdentifier</key>
+			<string>idSortCellValuePicker</string>
+		</dict>
+		<dict>
+			<key>isSelected</key>
+			<false/>
+			<key>value</key>
+			<string>settledStatus</string>
+			<key>primaryTitle</key>
+			<string>Settled Status (0 - 100)</string>
+			<key>secondaryTitle</key>
+			<string></string>
+			<key>cellIdentifier</key>
+			<string>idSortCellValuePicker</string>
+		</dict>
+	</array>
+</array>
+</plist>

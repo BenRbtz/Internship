@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15F34" minimumToolsVersion="Xcode 7.0">
+    <entity name="MenuItem" representedClassName=".MenuItem" syncable="YES">
+        <attribute name="accountType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="amount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="amountTimestamp" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="currency" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="errorCode" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="paymentType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="requestType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="settledAmount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="settledStatus" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="settledTimestamp" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="transRef" optional="YES" attributeType="String" indexed="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="MenuItem" positionX="-54" positionY="-9" width="128" height="210"/>
+    </elements>
+</model>

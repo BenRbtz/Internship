@@ -1,0 +1,405 @@
+
+/* Class = "UIButton"; normalTitle = " +44 333 240 6000"; ObjectID = "1IR-PB-ily"; */
+"1IR-PB-ily.normalTitle" = " +44 333 240 6000";
+
+/* Class = "UILabel"; text = "Refunds"; ObjectID = "204-dq-1FS"; */
+"204-dq-1FS.text" = "Refunds";
+
+/* Class = "UIButton"; normalTitle = "Past 24 Hours"; ObjectID = "2B1-ji-Vz9"; */
+"2B1-ji-Vz9.normalTitle" = "Past 24 Hours";
+
+/* Class = "UITextField"; placeholder = "  Must be atleast 8 characters"; ObjectID = "2H7-8D-tCz"; */
+"2H7-8D-tCz.placeholder" = "  Must be atleast 8 characters";
+
+/* Class = "UILabel"; text = "ECOM"; ObjectID = "2WL-An-Unn"; */
+"2WL-An-Unn.text" = "ECOM";
+
+/* Class = "UIButton"; normalTitle = "  Contact Us"; ObjectID = "2fl-O6-9LD"; */
+"2fl-O6-9LD.normalTitle" = "  Contact Us";
+
+/* Class = "UILabel"; text = "Sales Team"; ObjectID = "2gy-hg-xBD"; */
+"2gy-hg-xBD.text" = "Sales Team";
+
+/* Class = "UIButton"; normalTitle = "Past 6 Days"; ObjectID = "3KB-ae-A4q"; */
+"3KB-ae-A4q.normalTitle" = "Past 6 Days";
+
+/* Class = "UILabel"; text = "Support Team"; ObjectID = "3hs-I9-YeY"; */
+"3hs-I9-YeY.text" = "Support Team";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "3rv-g5-RKz"; */
+"3rv-g5-RKz.text" = "Username";
+
+/* Class = "UIButton"; normalTitle = " +44 1248 672040"; ObjectID = "3ze-9b-HyB"; */
+"3ze-9b-HyB.normalTitle" = " +44 1248 672040";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "5UF-pY-fQo"; */
+"5UF-pY-fQo.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "  Settings"; ObjectID = "5cN-0e-iAK"; */
+"5cN-0e-iAK.normalTitle" = "  Settings";
+
+/* Class = "UIBarButtonItem"; title = "        "; ObjectID = "5qX-Wu-6Lm"; */
+"5qX-Wu-6Lm.title" = "        ";
+
+/* Class = "UIBarButtonItem"; title = "Dismiss"; ObjectID = "6Lp-yq-ctd"; */
+"6Lp-yq-ctd.title" = "Dismiss";
+
+/* Class = "UILabel"; text = "Accounts Team"; ObjectID = "6NB-dY-Kz1"; */
+"6NB-dY-Kz1.text" = "Accounts Team";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "6OF-Cs-oLZ"; */
+"6OF-Cs-oLZ.text" = "Search";
+
+/* Class = "UIButton"; normalTitle = " accounts@securetrading.com"; ObjectID = "6SL-kf-hdG"; */
+"6SL-kf-hdG.normalTitle" = " accounts@securetrading.com";
+
+/* Class = "UISegmentedControl"; 77T-zc-e0V.segmentTitles[0] = "Settled"; ObjectID = "77T-zc-e0V"; */
+"77T-zc-e0V.segmentTitles[0]" = "Settled";
+
+/* Class = "UISegmentedControl"; 77T-zc-e0V.segmentTitles[1] = "Pending"; ObjectID = "77T-zc-e0V"; */
+"77T-zc-e0V.segmentTitles[1]" = "Pending";
+
+/* Class = "UISegmentedControl"; 77T-zc-e0V.segmentTitles[2] = "Suspended"; ObjectID = "77T-zc-e0V"; */
+"77T-zc-e0V.segmentTitles[2]" = "Suspended";
+
+/* Class = "UISegmentedControl"; 77T-zc-e0V.segmentTitles[3] = "Declined"; ObjectID = "77T-zc-e0V"; */
+"77T-zc-e0V.segmentTitles[3]" = "Declined";
+
+/* Class = "UILabel"; text = "MOTO"; ObjectID = "7i7-jo-csj"; */
+"7i7-jo-csj.text" = "MOTO";
+
+/* Class = "UIButton"; normalTitle = " support@securetrading.com"; ObjectID = "8U6-QD-l96"; */
+"8U6-QD-l96.normalTitle" = " support@securetrading.com";
+
+/* Class = "UILabel"; text = "RECUR"; ObjectID = "8Yz-qz-7UH"; */
+"8Yz-qz-7UH.text" = "RECUR";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "8yX-Vy-DfS"; */
+"8yX-Vy-DfS.text" = "0";
+
+/* Class = "UILabel"; text = "LabelData"; ObjectID = "9Ak-i8-RZR"; */
+"9Ak-i8-RZR.text" = "LabelData";
+
+/* Class = "UILabel"; text = "Authorises"; ObjectID = "9t0-P4-eyC"; */
+"9t0-P4-eyC.text" = "Authorises";
+
+/* Class = "UIButton"; normalTitle = "Timestamp"; ObjectID = "AXz-pv-Owu"; */
+"AXz-pv-Owu.normalTitle" = "Timestamp";
+
+/* Class = "UIButton"; normalTitle = "Past 30 Days"; ObjectID = "Agx-oC-khK"; */
+"Agx-oC-khK.normalTitle" = "Past 30 Days";
+
+/* Class = "UILabel"; text = "RECUR"; ObjectID = "Bhi-Xk-Qen"; */
+"Bhi-Xk-Qen.text" = "RECUR";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "C6P-De-Y7z"; */
+"C6P-De-Y7z.text" = "0";
+
+/* Class = "UILabel"; text = "Refunds"; ObjectID = "DW0-vh-4Eh"; */
+"DW0-vh-4Eh.text" = "Refunds";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "DYl-CO-y40"; */
+"DYl-CO-y40.text" = "0";
+
+/* Class = "UILabel"; text = "Transactions:"; ObjectID = "EE1-p8-hiz"; */
+"EE1-p8-hiz.text" = "Transactions:";
+
+/* Class = "UILabel"; text = "Support Team"; ObjectID = "Ela-0m-JCq"; */
+"Ela-0m-JCq.text" = "Support Team";
+
+/* Class = "UIButton"; normalTitle = " telesales@securetrading.com"; ObjectID = "FDB-kJ-rhe"; */
+"FDB-kJ-rhe.normalTitle" = " telesales@securetrading.com";
+
+/* Class = "UILabel"; text = "Transactions:"; ObjectID = "GEL-a5-WQh"; */
+"GEL-a5-WQh.text" = "Transactions:";
+
+/* Class = "UILabel"; text = "CFT"; ObjectID = "GUb-S4-dYi"; */
+"GUb-S4-dYi.text" = "CFT";
+
+/* Class = "UILabel"; text = "Log In to MyST"; ObjectID = "Hhw-68-9RS"; */
+"Hhw-68-9RS.text" = "Log In to MyST";
+
+/* Class = "UILabel"; text = "Label Name"; ObjectID = "HyG-W7-cgf"; */
+"HyG-W7-cgf.text" = "Label Name";
+
+/* Class = "UILabel"; text = "Transactions:"; ObjectID = "IJu-1T-ABr"; */
+"IJu-1T-ABr.text" = "Transactions:";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "JDk-4E-f8C"; */
+"JDk-4E-f8C.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "JQr-a0-hZN"; */
+"JQr-a0-hZN.text" = "0";
+
+/* Class = "UILabel"; text = "MASTERDCARDDEBIT"; ObjectID = "Jnx-aO-Zw3"; */
+"Jnx-aO-Zw3.text" = "MASTERDCARDDEBIT";
+
+/* Class = "UIButton"; normalTitle = "Total"; ObjectID = "KLG-Rw-EpF"; */
+"KLG-Rw-EpF.normalTitle" = "Total";
+
+/* Class = "UILabel"; text = "AMEX"; ObjectID = "KNp-XQ-0nL"; */
+"KNp-XQ-0nL.text" = "AMEX";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "KgW-2x-2sq"; */
+"KgW-2x-2sq.text" = "0";
+
+/* Class = "UIButton"; normalTitle = " +44 1248 672040"; ObjectID = "KxG-H5-y2W"; */
+"KxG-H5-y2W.normalTitle" = " +44 1248 672040";
+
+/* Class = "UILabel"; text = "CARDSTORE"; ObjectID = "M6a-yN-yCA"; */
+"M6a-yN-yCA.text" = "CARDSTORE";
+
+/* Class = "UILabel"; text = "Bar Graph"; ObjectID = "MEm-Dr-UBe"; */
+"MEm-Dr-UBe.text" = "Bar Graph";
+
+/* Class = "UILabel"; text = "Refunds"; ObjectID = "Nfb-Lb-Nfz"; */
+"Nfb-Lb-Nfz.text" = "Refunds";
+
+/* Class = "UIButton"; normalTitle = "  Search"; ObjectID = "O5f-5f-zLx"; */
+"O5f-5f-zLx.normalTitle" = "  Search";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Ore-1S-CpG"; */
+"Ore-1S-CpG.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "  Home"; ObjectID = "P4d-Ib-kAf"; */
+"P4d-Ib-kAf.normalTitle" = "  Home";
+
+/* Class = "UIButton"; normalTitle = " support@securetrading.com"; ObjectID = "PVa-ZK-64K"; */
+"PVa-ZK-64K.normalTitle" = " support@securetrading.com";
+
+/* Class = "UIButton"; normalTitle = "Past 6 Days"; ObjectID = "PcT-xh-iot"; */
+"PcT-xh-iot.normalTitle" = "Past 6 Days";
+
+/* Class = "UIBarButtonItem"; title = "        "; ObjectID = "Psa-te-O2v"; */
+"Psa-te-O2v.title" = "        ";
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "Q7T-Ag-FTy"; */
+"Q7T-Ag-FTy.title" = "Login";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "QIC-Yu-yD8"; */
+"QIC-Yu-yD8.text" = "0";
+
+/* Class = "UIBarButtonItem"; title = "        "; ObjectID = "QPM-9J-jep"; */
+"QPM-9J-jep.title" = "        ";
+
+/* Class = "UIButton"; normalTitle = " telesales@securetrading.com"; ObjectID = "Qec-as-y9P"; */
+"Qec-as-y9P.normalTitle" = " telesales@securetrading.com";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "RIn-yQ-f5w"; */
+"RIn-yQ-f5w.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "Refunds"; ObjectID = "RfB-L5-AjF"; */
+"RfB-L5-AjF.text" = "Refunds";
+
+/* Class = "UILabel"; text = "TOTAL"; ObjectID = "S77-bk-1m7"; */
+"S77-bk-1m7.text" = "TOTAL";
+
+/* Class = "UILabel"; text = "MASTERCARD"; ObjectID = "SHC-sr-2VQ"; */
+"SHC-sr-2VQ.text" = "MASTERCARD";
+
+/* Class = "UILabel"; text = "Transactions:"; ObjectID = "Sdx-it-eFy"; */
+"Sdx-it-eFy.text" = "Transactions:";
+
+/* Class = "UIButton"; normalTitle = " +44 1248 672050"; ObjectID = "TUz-q7-elP"; */
+"TUz-q7-elP.normalTitle" = " +44 1248 672050";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Tty-tq-wlh"; */
+"Tty-tq-wlh.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "VCO-mg-WbO"; */
+"VCO-mg-WbO.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Xfi-J1-Q9I"; */
+"Xfi-J1-Q9I.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Xsw-95-u71"; */
+"Xsw-95-u71.text" = "0";
+
+/* Class = "UISegmentedControl"; Xzi-Oz-k5i.segmentTitles[0] = "All"; ObjectID = "Xzi-Oz-k5i"; */
+"Xzi-Oz-k5i.segmentTitles[0]" = "All";
+
+/* Class = "UISegmentedControl"; Xzi-Oz-k5i.segmentTitles[1] = "Auth"; ObjectID = "Xzi-Oz-k5i"; */
+"Xzi-Oz-k5i.segmentTitles[1]" = "Auth";
+
+/* Class = "UISegmentedControl"; Xzi-Oz-k5i.segmentTitles[2] = "Refund"; ObjectID = "Xzi-Oz-k5i"; */
+"Xzi-Oz-k5i.segmentTitles[2]" = "Refund";
+
+/* Class = "UISegmentedControl"; Xzi-Oz-k5i.segmentTitles[3] = "Declined"; ObjectID = "Xzi-Oz-k5i"; */
+"Xzi-Oz-k5i.segmentTitles[3]" = "Declined";
+
+/* Class = "UILabel"; text = "28-9-83285"; ObjectID = "YnD-2k-uRT"; */
+"YnD-2k-uRT.text" = "28-9-83285";
+
+/* Class = "UILabel"; text = "REFUND"; ObjectID = "ZLN-4L-dC1"; */
+"ZLN-4L-dC1.text" = "REFUND";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ZYI-qO-eNA"; */
+"ZYI-qO-eNA.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Zwe-DE-cCc"; */
+"Zwe-DE-cCc.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Req"; ObjectID = "awe-F2-2SK"; */
+"awe-F2-2SK.normalTitle" = "Req";
+
+/* Class = "UILabel"; text = "VISA"; ObjectID = "b6g-l9-apS"; */
+"b6g-l9-apS.text" = "VISA";
+
+/* Class = "UIButton"; normalTitle = "Amount"; ObjectID = "b8X-BV-fOk"; */
+"b8X-BV-fOk.normalTitle" = "Amount";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "cDX-xw-2Xu"; */
+"cDX-xw-2Xu.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "cc2-cF-1fn"; */
+"cc2-cF-1fn.text" = "0";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "ch4-5a-ts6"; */
+"ch4-5a-ts6.text" = "Password";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "cwX-Mg-bGd"; */
+"cwX-Mg-bGd.text" = "0";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "czb-RS-AD4"; */
+"czb-RS-AD4.text" = "Contact Us";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "d4N-N2-VDT"; */
+"d4N-N2-VDT.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "GBP"; ObjectID = "dZH-ba-5yy"; */
+"dZH-ba-5yy.normalTitle" = "GBP";
+
+/* Class = "UILabel"; text = "Transactions: 0"; ObjectID = "dgx-ub-Vol"; */
+"dgx-ub-Vol.text" = "Transactions: 0";
+
+/* Class = "UIButton"; normalTitle = "Trans Ref."; ObjectID = "dpx-xw-lUJ"; */
+"dpx-xw-lUJ.normalTitle" = "Trans Ref.";
+
+/* Class = "UILabel"; text = "Results"; ObjectID = "dw8-gH-Czn"; */
+"dw8-gH-Czn.text" = "Results";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "fNj-rd-lQY"; */
+"fNj-rd-lQY.text" = "0";
+
+/* Class = "UILabel"; text = "Authorises"; ObjectID = "fRs-4K-Eww"; */
+"fRs-4K-Eww.text" = "Authorises";
+
+/* Class = "UILabel"; text = "Authorises"; ObjectID = "fvY-eB-hYB"; */
+"fvY-eB-hYB.text" = "Authorises";
+
+/* Class = "UIButton"; normalTitle = " accounts@securetrading.com"; ObjectID = "gLJ-D9-PCY"; */
+"gLJ-D9-PCY.normalTitle" = " accounts@securetrading.com";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "gco-NK-A19"; */
+"gco-NK-A19.text" = "0";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "gna-lE-rDs"; */
+"gna-lE-rDs.text" = "Contact Us";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "hFf-Mu-5T3"; */
+"hFf-Mu-5T3.text" = "0";
+
+/* Class = "UILabel"; text = "Sales Team"; ObjectID = "iiV-zT-wy2"; */
+"iiV-zT-wy2.text" = "Sales Team";
+
+/* Class = "UILabel"; text = "0000000000"; ObjectID = "jrp-nQ-xym"; */
+"jrp-nQ-xym.text" = "0000000000";
+
+/* Class = "UIBarButtonItem"; title = "Dismiss"; ObjectID = "kFa-ZB-5y7"; */
+"kFa-ZB-5y7.title" = "Dismiss";
+
+/* Class = "UILabel"; text = "GBP"; ObjectID = "kSV-dd-d9m"; */
+"kSV-dd-d9m.text" = "GBP";
+
+/* Class = "UILabel"; text = "All Time Transactions: 0"; ObjectID = "mg2-6O-hMv"; */
+"mg2-6O-hMv.text" = "All Time Transactions: 0";
+
+/* Class = "UILabel"; text = "USD"; ObjectID = "mjY-lJ-IIC"; */
+"mjY-lJ-IIC.text" = "USD";
+
+/* Class = "UIButton"; normalTitle = "Status"; ObjectID = "mkP-dO-B1d"; */
+"mkP-dO-B1d.normalTitle" = "Status";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "mld-H7-Ymx"; */
+"mld-H7-Ymx.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "nD1-Bu-lEo"; */
+"nD1-Bu-lEo.text" = "0";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "nwj-Uh-NWx"; */
+"nwj-Uh-NWx.text" = "Home";
+
+/* Class = "UIButton"; normalTitle = " +44 333 240 6000"; ObjectID = "oDS-A9-lbK"; */
+"oDS-A9-lbK.normalTitle" = " +44 333 240 6000";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "oQf-Qn-Ns1"; */
+"oQf-Qn-Ns1.text" = "Settings";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "pLs-mH-l1t"; */
+"pLs-mH-l1t.text" = "0";
+
+/* Class = "UISegmentedControl"; pdL-OA-zhN.segmentTitles[0] = "Trans Ref"; ObjectID = "pdL-OA-zhN"; */
+"pdL-OA-zhN.segmentTitles[0]" = "Trans Ref";
+
+/* Class = "UISegmentedControl"; pdL-OA-zhN.segmentTitles[1] = "Amount"; ObjectID = "pdL-OA-zhN"; */
+"pdL-OA-zhN.segmentTitles[1]" = "Amount";
+
+/* Class = "UISegmentedControl"; pdL-OA-zhN.segmentTitles[2] = "Settled Amount"; ObjectID = "pdL-OA-zhN"; */
+"pdL-OA-zhN.segmentTitles[2]" = "Settled Amount";
+
+/* Class = "UISegmentedControl"; pfx-QQ-xp9.segmentTitles[0] = "Filter By"; ObjectID = "pfx-QQ-xp9"; */
+"pfx-QQ-xp9.segmentTitles[0]" = "Filter By";
+
+/* Class = "UISegmentedControl"; pfx-QQ-xp9.segmentTitles[1] = "Sort By"; ObjectID = "pfx-QQ-xp9"; */
+"pfx-QQ-xp9.segmentTitles[1]" = "Sort By";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "prT-xu-ZFC"; */
+"prT-xu-ZFC.text" = "0";
+
+/* Class = "UILabel"; text = "EUR"; ObjectID = "sAJ-lZ-OQd"; */
+"sAJ-lZ-OQd.text" = "EUR";
+
+/* Class = "UIButton"; normalTitle = " +44 1248 672050"; ObjectID = "sHn-Iz-doH"; */
+"sHn-Iz-doH.normalTitle" = " +44 1248 672050";
+
+/* Class = "UILabel"; text = "Accounts Team"; ObjectID = "sUS-Mw-Oec"; */
+"sUS-Mw-Oec.text" = "Accounts Team";
+
+/* Class = "UIBarButtonItem"; title = "Dismiss"; ObjectID = "tiJ-8L-s6F"; */
+"tiJ-8L-s6F.title" = "Dismiss";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "tnK-ks-SkY"; */
+"tnK-ks-SkY.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "u0Z-oG-UgR"; */
+"u0Z-oG-UgR.text" = "0";
+
+/* Class = "UILabel"; text = "00/00/0000,  00:00"; ObjectID = "uHP-Mg-RFF"; */
+"uHP-Mg-RFF.text" = "00/00/0000,  00:00";
+
+/* Class = "UILabel"; text = "Authorises"; ObjectID = "uUF-K4-nG7"; */
+"uUF-K4-nG7.text" = "Authorises";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "v4V-dm-9Hw"; */
+"v4V-dm-9Hw.text" = "100";
+
+/* Class = "UITextField"; placeholder = "  example@securetrading.com"; ObjectID = "vin-w4-6if"; */
+"vin-w4-6if.placeholder" = "  example@securetrading.com";
+
+/* Class = "UISegmentedControl"; vzj-oV-KxX.segmentTitles[0] = "Account"; ObjectID = "vzj-oV-KxX"; */
+"vzj-oV-KxX.segmentTitles[0]" = "Account";
+
+/* Class = "UISegmentedControl"; vzj-oV-KxX.segmentTitles[1] = "Currency"; ObjectID = "vzj-oV-KxX"; */
+"vzj-oV-KxX.segmentTitles[1]" = "Currency";
+
+/* Class = "UISegmentedControl"; vzj-oV-KxX.segmentTitles[2] = "Payment"; ObjectID = "vzj-oV-KxX"; */
+"vzj-oV-KxX.segmentTitles[2]" = "Payment";
+
+/* Class = "UIButton"; normalTitle = "  Log Out"; ObjectID = "yZ2-CD-gbW"; */
+"yZ2-CD-gbW.normalTitle" = "  Log Out";
+
+/* Class = "UIButton"; normalTitle = "Acc"; ObjectID = "ypr-t3-Zym"; */
+"ypr-t3-Zym.normalTitle" = "Acc";
+
+/* Class = "UILabel"; text = "PAYPAL"; ObjectID = "yvN-kQ-dMW"; */
+"yvN-kQ-dMW.text" = "PAYPAL";
